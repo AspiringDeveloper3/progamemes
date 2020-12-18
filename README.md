@@ -1,7 +1,7 @@
 # Progamemes
 Memes for programmers to laugh out the stress of a stupid bug 🐛❗
 
-##Meme categories
+## Meme categories
 This software/api has code for generating memes according to filters provided
 There are various categories like:-
 1) Sugary Syntax
@@ -9,10 +9,10 @@ There are various categories like:-
 3) A pro-grammar;
 4) General laughs
 
-##Running the program
+## Running the program
 You can go to & type this in the input for a meme:-
-'''
-<topic input>: <your topic>
-'''
+```
+'Topic input': 'Topic for your joke'
+```
 
 Enjoy the programemes!
